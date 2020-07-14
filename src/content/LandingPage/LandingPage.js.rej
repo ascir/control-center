@@ -1,0 +1,25 @@
+diff a/src/content/LandingPage/LandingPage.js b/src/content/LandingPage/LandingPage.js	(rejected hunks)
+@@ -83,6 +83,7 @@ const LandingPage = () => {
+-        <div class="col d-flex justify-content-center">
+-          <div className="col-lg-6 col-sm-6">
+-            <div className="card">
+-              <div className="card-heading">
+-                <div>
+-                  <h5 class="ex2">User Registerations</h5>
++          <div class="col d-flex justify-content-center">
++            <div className="col-lg-6 col-sm-6">
++              <div className="card">
++                <div className="card-heading">
++                  <div>
++                    <h5 class="ex2">User Registerations</h5>
++                  </div>
+@@ -90,5 +91,4 @@ const LandingPage = () => {
+-              </div>
+-              <div className="card-value">
+-                <span>
+-                  <SbChart />
+-                </span>
++                <div className="card-value">
++                  <span>
++                    <SbChart />
++                  </span>
